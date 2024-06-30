@@ -1,7 +1,5 @@
 # espup
 
-> `rustup` for [esp-rs](https://github.com/esp-rs/)
-
 `espup` is a tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
 
 To better understand what `espup` installs, see [the installation chapter of `The Rust on ESP Book`](https://esp-rs.github.io/book/installation/index.html)
